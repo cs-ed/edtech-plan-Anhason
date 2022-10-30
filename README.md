@@ -12,6 +12,7 @@ Describe your course including the name, description, and grade level
 Name: AP computer Science A 
 
 Description: AP Computer Science A is equivalent to a first-semester, college-level CS1 course in computer science. The course introduces students to computer science with fundamental topics that include problem solving, design strategies and methodologies, organization of data (data structures), approaches to processing data (algorithms), analysis of potential solutions, and the ethical and social implications of computing. The course emphasizes both object-oriented and imperative problem solving and design using the Java programming language. These techniques represent proven approaches for developing solutions that can scale up from small, simple problems to large, complex problems
+
 Pre-requisite: Algebra I
 
 ### Situation
@@ -42,6 +43,8 @@ Detailed outline of the course content:
 - Unit 9. Inheritance
 
 - Unit 10. Recursion
+
+Students needs to complete C- or above
 
 ## Plan
 
