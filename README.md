@@ -44,7 +44,7 @@ Detailed outline of the course content:
 
 - Unit 10. Recursion
 
-Students needs to complete C- or above
+Students needs to pass the Algebra I before enrolling this class. I don't think I will have many constraints for this class. For the technical resources, it is better to look for something for free. But if I find something I have to pay for, I will not hesitate to ask my principal. 
 
 ## Plan
 
