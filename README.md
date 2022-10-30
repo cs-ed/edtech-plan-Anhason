@@ -22,18 +22,25 @@ context of your class, considering demographic and technical resources?
 Online text: CSAwesome Runestone Course (Available for free)
 
 Detailed outline of the course content: 
-Unit 1. Getting Started and Primitive Types
-Unit 2. Using Objects
+- Unit 1. Getting Started and Primitive Types
+
+- Unit 2. Using Objects
+
 Unit 3. Boolean Expressions and If Statements	
+
 Unit 4. Iteration (Loops)
+
 Unit 5. Writing Classes
+
 Unit 6. Arrays
+
 Unit 7. ArrayList
+
 Unit 8. 2D Arrays
+
 Unit 9. Inheritance
+
 Unit 10. Recursion
-
-
 
 ## Plan
 
