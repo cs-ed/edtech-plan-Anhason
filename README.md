@@ -63,7 +63,19 @@ Software: The online IDE replit
 Describe the hardware requirements for your class. Provide specific requirements
 wherever necessary.
 
-Google chromebook specs???
+Dell Chromebook Education 3100: 
+- Display: 11.6", HD 1366x768, 60Hz, Embedded Touch, Cam/Mic, WLAN/LTE
+- CPU/Processor: Intel® Celeron® N4020 (4 MB cache, 2 cores, 2 threads, up to 2.80 GHz, 6 W)
+- Memory: 4 GB, LPDDR4, 2400 MHz, integrated
+- Hard Drive: 32 GB eMMC, on-board
+- Keyboard: US English Keyboard, non-backlit
+- Ports: 1 USB Type-C™ and 2 USB 3.1 based on configuration, 1 Wedge Lock Slot, 1 Headset/Mic Combo Jack
+- Dimensions: Height: 0.82" (20.8 mm) x Width: 11.96" (303.9 mm) x Depth: 8.19" (207.9 mm)
+- Weight: 2.85 lbs (1.29 Kg)
+- Wireless: Intel® Dual Band Wireless AC 9560 (802.11ac) 2x2 + Bluetooth 5.0
+- Primary Battery: 3 Cell, 42 Wh
+- Power: 65W Type-C Adapter US 125V,1M
+
 
 ### Application
 
